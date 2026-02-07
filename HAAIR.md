@@ -196,9 +196,3 @@ They force organizations to confront how poorly responsibility has been defined 
 HAAIR is not about adding bureaucracy. It is about restoring a missing abstraction: **roles as the foundation of authority and access**.
 
 Organizations that adopt this model will scale AI safely. Those that do not will continue to treat actors like tools — until failure makes the distinction unavoidable.
-
----
-
-## Status
-
-This document is exploratory. It is intended as a conceptual white paper, not a binding policy.
